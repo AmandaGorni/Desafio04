@@ -8,7 +8,7 @@ text()
 // 2 - crie uma função que receba o seu nome como (parâmetro) e exiba no console
 
 function pessoa(nome){
-    console.log(`Meu é ${nome}`)
+    console.log(`Meu nome é ${nome}`)
 }
 
 pessoa ("Amanda")
